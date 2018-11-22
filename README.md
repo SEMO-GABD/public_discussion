@@ -1,7 +1,7 @@
 # public_discussion
 Public discussion related to the assignments and other tasks. This repo is available to the world at large.
 
-You and I can initiate discussions about completing assignments or raising other issues not suitable for the [private discussion](https://github.com/SEMO-GABD/private_discussion) repo.  
+You and I can initiate discussions about completing assignments or raising other issues not suitable for the private [internal discussion](https://github.com/SEMO-GABD/internal_discussion) repo.  
 
 To raise an issue:
 - Click the "Issues" tab near the top left.
