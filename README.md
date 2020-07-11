@@ -1,6 +1,8 @@
 # public_discussion
 Public discussion related to the assignments and other tasks. This repo is available to the world at large.
 
+Click the `Watch` button then choose `Watching` to be notified of all posts to this discussion area.
+
 You and I can initiate discussions about completing assignments or raising other issues not suitable for the private [internal discussion](https://github.com/SEMO-GABD/internal_discussion) repo.  
 
 To raise an issue:
